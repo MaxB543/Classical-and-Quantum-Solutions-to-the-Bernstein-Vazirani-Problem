@@ -1,5 +1,12 @@
 # ELEN4022 PROJECT: Classical and Quantum Solutions to the Bernstein Vazirani Problem 
 
+This repository is a copy of the ELEN4022 project submission repository.
+Authors: 
+
+Max Brenner
+Joshua Jandrell 
+Pragna Singh
+
 This repository contains python scripts used to implement and investigate classical and quantum solutions to the Bernstein-Vazirani problem which has applications in cyber security and cryptanalysis.
 
 The problem involves querying an n-bit oracle with function, $f(x)\in\\{0,1\\}$, to determine the n-bit binary secret, $s$, which controls the oracle output. $f(x)$ is promised to be the binary dot product of input $x$ and secret $s$ under modulo 2. 
